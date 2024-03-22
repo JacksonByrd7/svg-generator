@@ -37,7 +37,7 @@ const questions = [
     {
         type: "list",
         name: "pixel-image",
-        message: "Choose which Pixel IMage you would like?",
+        message: "Choose which Pixel Image you would like?",
         choices: ["Circle", "Square", "Triangle"],
     },
 ];
