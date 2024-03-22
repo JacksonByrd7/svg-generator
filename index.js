@@ -18,7 +18,7 @@ class Svg{
     }
 }
 
-const quesitons = [
+const questions = [
     {
         type: "input",
         name: "text",
