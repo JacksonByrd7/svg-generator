@@ -25,7 +25,7 @@ function saveSVGToFile(svgContent) {
 }
 
 // Prompt user for input
-rl.question('Enter shape (e.g., rect, circle): ', (shape) => {
+rl.question('Enter shape (e.g., circle, triangle, square): ', (shape) => {
   rl.question('Enter shape color: ', (shapeColor) => {
     rl.question('Enter text: ', (text) => {
       rl.question('Enter text color: ', (textColor) => {
